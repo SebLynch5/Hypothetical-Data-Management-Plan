@@ -1,0 +1,5 @@
+This document outlines a hypothetical data management plan (DMP) for the research project Criminality on Campus: Enhancing University Safety Through Understanding Criminality, funded by the ESRC and led by Loughborough University in collaboration with Cardiff University, the University of Edinburgh, and their respective student unions.
+
+The aim of the project is to examine the nature, prevalence, and impact of criminal behaviour on UK university campuses, using a mixed-methods approach that includes administrative data, student surveys, interviews, and focus groups. The research will also explore the differential impacts of campus criminality across diverse student demographics.
+
+This data management plan addresses key considerations such as data collection, storage, sharing, ethical compliance, anonymisation, and long-term preservation. It ensures that data handling practices support the project’s goals while maintaining participant confidentiality and aligning with institutional, legal, and funder requirements.
